@@ -1,0 +1,9 @@
+{
+  "name": "pgs-operations-overview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PGS Operations Overview dashboard with a shared snapshot backend",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
